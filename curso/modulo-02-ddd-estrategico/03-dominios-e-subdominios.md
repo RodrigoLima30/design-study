@@ -10,11 +10,11 @@ Divida o domínio em **subdomínios** e classifique cada um pelo valor que gera 
 
 ```mermaid
 quadrantChart
-    title Onde investir esforço de design
+    title Onde investir esforco de design
     x-axis Baixa complexidade --> Alta complexidade
     y-axis Baixo diferencial --> Alto diferencial
     quadrant-1 Core domain
-    quadrant-2 Core simples, mas estratégico
+    quadrant-2 Core simples mas estrategico
     quadrant-3 Generic
     quadrant-4 Supporting complexo
     Precificacao de frete: [0.85, 0.9]

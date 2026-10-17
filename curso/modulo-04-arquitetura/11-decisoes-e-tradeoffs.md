@@ -16,18 +16,18 @@
 
 ```mermaid
 quadrantChart
-    title Quanto cuidado cada decisão merece
-    x-axis Fácil de reverter --> Difícil de reverter
+    title Quanto cuidado cada decisao merece
+    x-axis Facil de reverter --> Dificil de reverter
     y-axis Baixo impacto --> Alto impacto
     quadrant-1 Analise com calma e registre
-    quadrant-2 Decida rápido, mas acompanhe
-    quadrant-3 Decida rápido
-    quadrant-4 Proteja com abstração
+    quadrant-2 Decida rapido e acompanhe
+    quadrant-3 Decida rapido
+    quadrant-4 Proteja com abstracao
     Fronteira de bounded context: [0.85, 0.9]
     Modelo de dados do core: [0.75, 0.8]
     Escolha do broker: [0.7, 0.55]
     Nome de uma classe: [0.1, 0.15]
-    Biblioteca de validação: [0.35, 0.3]
+    Biblioteca de validacao: [0.35, 0.3]
     Estrutura de pastas: [0.3, 0.5]
 ```
 
